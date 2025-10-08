@@ -1,0 +1,542 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1579546929662-711aa81148cf?w=400",
+    "title": "PhotoMaster",
+    "companyName": "PixelCraft Studios",
+    "id": 1,
+    "description": "PhotoMaster is a comprehensive photo editing and management app that empowers both amateur and professional photographers to enhance their creative vision.",
+    "size": 54,
+    "reviews": 14200,
+    "ratingAvg": 4.7,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 8950 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400",
+    "title": "TaskHero",
+    "companyName": "OrganizeIt Ltd.",
+    "id": 2,
+    "description": "TaskHero is a next-generation productivity app designed to streamline daily activities and boost personal efficiency.",
+    "size": 38,
+    "reviews": 9700,
+    "ratingAvg": 4.5,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1030 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 2910 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400",
+    "title": "FitPulse",
+    "companyName": "HealthTech Innovations",
+    "id": 3,
+    "description": "FitPulse is a comprehensive fitness and wellness platform that tracks workouts, nutrition, sleep, and overall health metrics.",
+    "size": 61,
+    "reviews": 15800,
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 390 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 940 },
+      { "name": "4 star", "count": 3150 },
+      { "name": "5 star", "count": 11040 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400",
+    "title": "EduMind",
+    "companyName": "BrightFuture Learning",
+    "id": 4,
+    "description": "EduMind is an interactive learning platform offering students of all ages access to thousands of lessons, quizzes, and educational games.",
+    "size": 49,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1020 },
+      { "name": "4 star", "count": 3050 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400",
+    "title": "MusicWave",
+    "companyName": "SonicFlow Media",
+    "id": 5,
+    "description": "MusicWave is an all-in-one music streaming and discovery platform providing millions of tracks, playlists, and podcasts.",
+    "size": 67,
+    "reviews": 49800,
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 1900 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 10100 },
+      { "name": "5 star", "count": 29200 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400",
+    "title": "BudgetWise",
+    "companyName": "FinancePro Inc.",
+    "id": 6,
+    "description": "BudgetWise is a financial management app designed to help users take control of their money effortlessly.",
+    "size": 32,
+    "reviews": 8200,
+    "ratingAvg": 4.5,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 710 },
+      { "name": "4 star", "count": 1950 },
+      { "name": "5 star", "count": 2870 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=400",
+    "title": "NoteStream",
+    "companyName": "ThinkFlow Labs",
+    "id": 7,
+    "description": "NoteStream is a versatile note-taking and organization tool that combines simplicity with powerful features.",
+    "size": 41,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 830 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 3660 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400",
+    "title": "TravelMate",
+    "companyName": "GlobeTrek Solutions",
+    "id": 8,
+    "description": "TravelMate is a comprehensive travel planning app that helps users organize trips from start to finish.",
+    "size": 58,
+    "reviews": 20700,
+    "ratingAvg": 4.7,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 680 },
+      { "name": "2 star", "count": 1020 },
+      { "name": "3 star", "count": 1820 },
+      { "name": "4 star", "count": 5120 },
+      { "name": "5 star", "count": 12060 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "title": "MindCalm",
+    "companyName": "Serenity Labs",
+    "id": 9,
+    "description": "MindCalm offers guided meditation, relaxation exercises, and stress management tools to promote mental wellbeing.",
+    "size": 45,
+    "reviews": 12100,
+    "ratingAvg": 4.8,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 2380 },
+      { "name": "5 star", "count": 7390 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400",
+    "title": "ShopSmart",
+    "companyName": "MegaCommerce Ltd.",
+    "id": 10,
+    "description": "ShopSmart is a comprehensive online shopping platform offering millions of products across multiple categories.",
+    "size": 72,
+    "reviews": 35200,
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 2900 },
+      { "name": "2 star", "count": 3300 },
+      { "name": "3 star", "count": 6200 },
+      { "name": "4 star", "count": 10300 },
+      { "name": "5 star", "count": 12400 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?w=400",
+    "title": "LangPro",
+    "companyName": "GlobalLearn Tech",
+    "id": 11,
+    "description": "LangPro is an advanced language-learning platform designed for learners of all levels with AI-powered speech recognition.",
+    "size": 55,
+    "reviews": 14800,
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 510 },
+      { "name": "2 star", "count": 760 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 3460 },
+      { "name": "5 star", "count": 8950 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400",
+    "title": "EcoLife",
+    "companyName": "GreenWorld Solutions",
+    "id": 12,
+    "description": "EcoLife empowers users to live sustainably by tracking energy use, carbon footprint, and eco-friendly habits.",
+    "size": 60,
+    "reviews": 8700,
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2950 },
+      { "name": "5 star", "count": 3630 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400",
+    "title": "GameArena",
+    "companyName": "NextLevel Entertainment",
+    "id": 13,
+    "description": "GameArena is a one-stop hub for gaming enthusiasts, offering access to mobile games, live streams, and gaming communities.",
+    "size": 88,
+    "reviews": 45200,
+    "ratingAvg": 4.5,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 3500 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 13500 },
+      { "name": "5 star", "count": 14900 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?w=400",
+    "title": "DocuSmart",
+    "companyName": "SyncTech Solutions",
+    "id": 14,
+    "description": "DocuSmart is a modern document management system for individuals and teams with cloud-based storage and real-time editing.",
+    "size": 67,
+    "reviews": 11700,
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 1130 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 5860 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554080353-a576cf803bda?w=400",
+    "title": "PhotoFusion",
+    "companyName": "Visionary Media",
+    "id": 15,
+    "description": "PhotoFusion provides advanced photo editing and creative tools for artists, photographers, and designers.",
+    "size": 76,
+    "reviews": 18900,
+    "ratingAvg": 4.8,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 570 },
+      { "name": "2 star", "count": 730 },
+      { "name": "3 star", "count": 1470 },
+      { "name": "4 star", "count": 4920 },
+      { "name": "5 star", "count": 11010 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=400",
+    "title": "CookEase",
+    "companyName": "KitchenTech",
+    "id": 16,
+    "description": "CookEase is a smart cooking companion that provides personalized recipes, meal planning, and step-by-step video tutorials.",
+    "size": 60,
+    "reviews": 9800,
+    "ratingAvg": 4.6,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 2760 },
+      { "name": "5 star", "count": 5280 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400",
+    "title": "NewsFlash",
+    "companyName": "GlobalPress Media",
+    "id": 17,
+    "description": "NewsFlash delivers verified news, breaking headlines, and in-depth analysis from reliable sources worldwide.",
+    "size": 44,
+    "reviews": 11900,
+    "ratingAvg": 4.4,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 630 },
+      { "name": "2 star", "count": 980 },
+      { "name": "3 star", "count": 1620 },
+      { "name": "4 star", "count": 3840 },
+      { "name": "5 star", "count": 4830 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=400",
+    "title": "SkillUp",
+    "companyName": "NextGen Education",
+    "id": 18,
+    "description": "SkillUp is an online learning platform offering professional courses, tutorials, and certification programs.",
+    "size": 82,
+    "reviews": 27800,
+    "ratingAvg": 4.8,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 840 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1720 },
+      { "name": "4 star", "count": 6520 },
+      { "name": "5 star", "count": 17620 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=400",
+    "title": "CityMover",
+    "companyName": "UrbanMobility Inc.",
+    "id": 19,
+    "description": "CityMover offers modern ride-sharing and urban transportation services with real-time tracking and multiple payment options.",
+    "size": 62,
+    "reviews": 24100,
+    "ratingAvg": 4.5,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 1420 },
+      { "name": "2 star", "count": 1820 },
+      { "name": "3 star", "count": 3120 },
+      { "name": "4 star", "count": 8480 },
+      { "name": "5 star", "count": 12160 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=400",
+    "title": "MindJournal",
+    "companyName": "FocusWare Labs",
+    "id": 20,
+    "description": "MindJournal combines journaling, mindfulness, and goal tracking in a single app for mental clarity and productivity.",
+    "size": 40,
+    "reviews": 13600,
+    "ratingAvg": 4.7,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 530 },
+      { "name": "2 star", "count": 770 },
+      { "name": "3 star", "count": 1130 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 7330 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=400",
+    "title": "TimePilot",
+    "companyName": "ChronoWorks",
+    "id": 21,
+    "description": "TimePilot is a smart time management and productivity tracker designed for professionals, students, and teams.",
+    "size": 47,
+    "reviews": 8200,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4790 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=400",
+    "title": "PetPal",
+    "companyName": "HappyPaws Ltd.",
+    "id": 22,
+    "description": "PetPal is the ultimate companion for pet owners, helping manage care schedules, vet appointments, and vaccinations.",
+    "size": 51,
+    "reviews": 7600,
+    "ratingAvg": 4.6,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 870 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 3580 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400",
+    "title": "Artify",
+    "companyName": "DreamCanvas Studio",
+    "id": 23,
+    "description": "Artify empowers digital artists to create, design, and share artwork on the go with professional drawing tools.",
+    "size": 83,
+    "reviews": 25600,
+    "ratingAvg": 4.8,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 720 },
+      { "name": "2 star", "count": 930 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 6100 },
+      { "name": "5 star", "count": 16150 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400",
+    "title": "SafeVault",
+    "companyName": "CyberFort Labs",
+    "id": 24,
+    "description": "SafeVault offers enterprise-grade password protection and data encryption for ultimate security and peace of mind.",
+    "size": 37,
+    "reviews": 14500,
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 8340 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400",
+    "title": "GardenEase",
+    "companyName": "BloomTech",
+    "id": 25,
+    "description": "GardenEase is a digital gardening assistant that helps plant lovers nurture their greens effortlessly.",
+    "size": 52,
+    "reviews": 9900,
+    "ratingAvg": 4.6,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 630 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 5280 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400",
+    "title": "Eventify",
+    "companyName": "BrightWave Media",
+    "id": 26,
+    "description": "Eventify simplifies event planning by integrating scheduling, ticketing, and communication into one platform.",
+    "size": 65,
+    "reviews": 18900,
+    "ratingAvg": 4.5,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 730 },
+      { "name": "2 star", "count": 880 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 10890 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400",
+    "title": "Readly",
+    "companyName": "PageTurner Ltd.",
+    "id": 27,
+    "description": "Readly gives access to thousands of e-books, audiobooks, and magazines worldwide with personalized recommendations.",
+    "size": 78,
+    "reviews": 31800,
+    "ratingAvg": 4.9,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 910 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6100 },
+      { "name": "5 star", "count": 21790 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400",
+    "title": "MoveFit",
+    "companyName": "PulseWorks",
+    "id": 28,
+    "description": "MoveFit combines fitness tracking, personalized workouts, and real-time analytics to help users stay in shape.",
+    "size": 70,
+    "reviews": 21200,
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 740 },
+      { "name": "2 star", "count": 980 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 12380 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+    "title": "HomeSync",
+    "companyName": "SmartHaus",
+    "id": 29,
+    "description": "HomeSync is a smart home control app connecting all IoT devices for enhanced comfort, security, and sustainability.",
+    "size": 69,
+    "reviews": 24100,
+    "ratingAvg": 4.6,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 980 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 13820 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400",
+    "title": "TravelTales",
+    "companyName": "WanderWorld",
+    "id": 30,
+    "description": "TravelTales is a travel storytelling companion for explorers to create visual diaries with photos, notes, and maps.",
+    "size": 74,
+    "reviews": 18800,
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 690 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 11220 }
+    ]
+  }
+]

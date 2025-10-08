@@ -1,5 +1,5 @@
 import React from "react";
-import banner from "../../../assets/hero.png";
+import banner from "../../assets/hero.png";
 import { FaGooglePlay } from "react-icons/fa";
 import { FaAppStore } from "react-icons/fa";
 
@@ -21,14 +21,17 @@ const Banner = () => {
       </div>
       <div>
         <div className="text-center my-5">
-          <button className="btn text-xl p-5 mr-3">
+          <a
+            href="https://play.google.com/store/games?device=windows&pli=1"
+            className="btn text-xl p-5 mr-3"
+          >
             <FaGooglePlay />
             Google Play
-          </button>
-          <button className="btn text-xl p-5">
+          </a>
+          <a href="https://www.apple.com/store" className="btn text-xl p-5">
             <FaAppStore />
             App Store
-          </button>
+          </a>
         </div>
         <div className=" flex justify-center">
           <img src={banner} />
