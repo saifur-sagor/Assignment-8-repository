@@ -1,9 +1,16 @@
-import React, { Suspense } from "react";
+import React, { Suspense, useState } from "react";
 import useHooks from "../../Hook/useHooks";
 import AppCard from "../../AppCard/AppCard";
 
 const Apps = () => {
   const { appsData } = useHooks();
+  const [search, setSearch] = useState("");
+  // console.log(search);
+  const trim = search.trim().toLocaleLowerCase();
+  const searchApp = trim
+    ? appsData.filter((app) => app.title.toLocaleLowerCase().includes(trim))
+    : appsData;
+  // console.log(searchApp);
 
   return (
     <div className="container mx-auto">
@@ -14,15 +21,23 @@ const Apps = () => {
         </p>
       </div>
       <div className="flex justify-between items-center my-10">
-        <h1>(30)Apps found</h1>
+        <h1>
+          <span>({searchApp.length}) </span>Apps found
+        </h1>
         <label>
-          <input type="search" placeholder="search" className="input" />
+          <input
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            type="search"
+            placeholder="search"
+            className="input"
+          />
         </label>
       </div>
       <div className="grid grid-cols-4 gap-5">
         <Suspense fallback={<p>Loading...</p>}>
-          {appsData.map((app) => (
-            <AppCard key={app} app={app}></AppCard>
+          {searchApp.map((app) => (
+            <AppCard key={app.id} app={app}></AppCard>
           ))}
         </Suspense>
       </div>

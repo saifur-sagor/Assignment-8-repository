@@ -8,7 +8,7 @@ const Home = () => {
   // console.log(appsData);
   const sliceApp = appsData.slice(0, 8);
   return (
-    <div>
+    <div className="container mx-auto">
       <div className=" text-center my-10">
         <h1 className="font-bold text-4xl">Trending Apps</h1>
         <p className="text-xl text-gray-500 my-2">

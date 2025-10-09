@@ -6,7 +6,7 @@
     "id": 1,
     "description": "PhotoMaster is a comprehensive photo editing and management app that empowers both amateur and professional photographers to enhance their creative vision.",
     "size": 54,
-    "reviews": 14200,
+    "reviews": "14K",
     "ratingAvg": 4.7,
     "downloads": "9M",
     "ratings": [
@@ -24,7 +24,7 @@
     "id": 2,
     "description": "TaskHero is a next-generation productivity app designed to streamline daily activities and boost personal efficiency.",
     "size": 38,
-    "reviews": 9700,
+    "reviews": "9K",
     "ratingAvg": 4.5,
     "downloads": "7M",
     "ratings": [
@@ -36,13 +36,13 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=400",
+    "image": "https://i.ibb.co.com/YF594N62/unnamed.png",
     "title": "FitPulse",
     "companyName": "HealthTech Innovations",
     "id": 3,
     "description": "FitPulse is a comprehensive fitness and wellness platform that tracks workouts, nutrition, sleep, and overall health metrics.",
     "size": 61,
-    "reviews": 15800,
+    "reviews": "5K",
     "ratingAvg": 4.8,
     "downloads": "5M",
     "ratings": [
@@ -60,7 +60,7 @@
     "id": 4,
     "description": "EduMind is an interactive learning platform offering students of all ages access to thousands of lessons, quizzes, and educational games.",
     "size": 49,
-    "reviews": 11200,
+    "reviews": "11K",
     "ratingAvg": 4.6,
     "downloads": "9M",
     "ratings": [
@@ -78,7 +78,7 @@
     "id": 5,
     "description": "MusicWave is an all-in-one music streaming and discovery platform providing millions of tracks, playlists, and podcasts.",
     "size": 67,
-    "reviews": 49800,
+    "reviews": "4K",
     "ratingAvg": 4.7,
     "downloads": "5M",
     "ratings": [
@@ -96,7 +96,7 @@
     "id": 6,
     "description": "BudgetWise is a financial management app designed to help users take control of their money effortlessly.",
     "size": 32,
-    "reviews": 8200,
+    "reviews": "8K",
     "ratingAvg": 4.5,
     "downloads": "6M",
     "ratings": [
@@ -114,7 +114,7 @@
     "id": 7,
     "description": "NoteStream is a versatile note-taking and organization tool that combines simplicity with powerful features.",
     "size": 41,
-    "reviews": 8900,
+    "reviews": "6K",
     "ratingAvg": 4.6,
     "downloads": "8M",
     "ratings": [
@@ -132,7 +132,7 @@
     "id": 8,
     "description": "TravelMate is a comprehensive travel planning app that helps users organize trips from start to finish.",
     "size": 58,
-    "reviews": 20700,
+    "reviews": "14K",
     "ratingAvg": 4.7,
     "downloads": "4M",
     "ratings": [
@@ -150,7 +150,7 @@
     "id": 9,
     "description": "MindCalm offers guided meditation, relaxation exercises, and stress management tools to promote mental wellbeing.",
     "size": 45,
-    "reviews": 12100,
+    "reviews": "9K",
     "ratingAvg": 4.8,
     "downloads": "6M",
     "ratings": [
@@ -168,7 +168,7 @@
     "id": 10,
     "description": "ShopSmart is a comprehensive online shopping platform offering millions of products across multiple categories.",
     "size": 72,
-    "reviews": 35200,
+    "reviews": "6K",
     "ratingAvg": 4.6,
     "downloads": "9M",
     "ratings": [
@@ -186,7 +186,7 @@
     "id": 11,
     "description": "LangPro is an advanced language-learning platform designed for learners of all levels with AI-powered speech recognition.",
     "size": 55,
-    "reviews": 14800,
+    "reviews": "14K",
     "ratingAvg": 4.7,
     "downloads": "6M",
     "ratings": [
@@ -204,7 +204,7 @@
     "id": 12,
     "description": "EcoLife empowers users to live sustainably by tracking energy use, carbon footprint, and eco-friendly habits.",
     "size": 60,
-    "reviews": 8700,
+    "reviews": "8K",
     "ratingAvg": 4.6,
     "downloads": "5M",
     "ratings": [
@@ -222,7 +222,7 @@
     "id": 13,
     "description": "GameArena is a one-stop hub for gaming enthusiasts, offering access to mobile games, live streams, and gaming communities.",
     "size": 88,
-    "reviews": 45200,
+    "reviews": "4K",
     "ratingAvg": 4.5,
     "downloads": "7M",
     "ratings": [
@@ -240,7 +240,7 @@
     "id": 14,
     "description": "DocuSmart is a modern document management system for individuals and teams with cloud-based storage and real-time editing.",
     "size": 67,
-    "reviews": 11700,
+    "reviews": "11K",
     "ratingAvg": 4.6,
     "downloads": "9M",
     "ratings": [
@@ -258,7 +258,7 @@
     "id": 15,
     "description": "PhotoFusion provides advanced photo editing and creative tools for artists, photographers, and designers.",
     "size": 76,
-    "reviews": 18900,
+    "reviews": "18K",
     "ratingAvg": 4.8,
     "downloads": "8M",
     "ratings": [
@@ -276,7 +276,7 @@
     "id": 16,
     "description": "CookEase is a smart cooking companion that provides personalized recipes, meal planning, and step-by-step video tutorials.",
     "size": 60,
-    "reviews": 9800,
+    "reviews": "8K",
     "ratingAvg": 4.6,
     "downloads": "6M",
     "ratings": [
@@ -294,7 +294,7 @@
     "id": 17,
     "description": "NewsFlash delivers verified news, breaking headlines, and in-depth analysis from reliable sources worldwide.",
     "size": 44,
-    "reviews": 11900,
+    "reviews": "11K",
     "ratingAvg": 4.4,
     "downloads": "7M",
     "ratings": [
@@ -312,7 +312,7 @@
     "id": 18,
     "description": "SkillUp is an online learning platform offering professional courses, tutorials, and certification programs.",
     "size": 82,
-    "reviews": 27800,
+    "reviews": "8K",
     "ratingAvg": 4.8,
     "downloads": "4M",
     "ratings": [
@@ -330,7 +330,7 @@
     "id": 19,
     "description": "CityMover offers modern ride-sharing and urban transportation services with real-time tracking and multiple payment options.",
     "size": 62,
-    "reviews": 24100,
+    "reviews": "6K",
     "ratingAvg": 4.5,
     "downloads": "7M",
     "ratings": [
@@ -348,7 +348,7 @@
     "id": 20,
     "description": "MindJournal combines journaling, mindfulness, and goal tracking in a single app for mental clarity and productivity.",
     "size": 40,
-    "reviews": 13600,
+    "reviews": "4K",
     "ratingAvg": 4.7,
     "downloads": "4M",
     "ratings": [
@@ -366,7 +366,7 @@
     "id": 21,
     "description": "TimePilot is a smart time management and productivity tracker designed for professionals, students, and teams.",
     "size": 47,
-    "reviews": 8200,
+    "reviews": "6K",
     "ratingAvg": 4.5,
     "downloads": "9M",
     "ratings": [
@@ -384,7 +384,7 @@
     "id": 22,
     "description": "PetPal is the ultimate companion for pet owners, helping manage care schedules, vet appointments, and vaccinations.",
     "size": 51,
-    "reviews": 7600,
+    "reviews": "5K",
     "ratingAvg": 4.6,
     "downloads": "7M",
     "ratings": [
@@ -402,7 +402,7 @@
     "id": 23,
     "description": "Artify empowers digital artists to create, design, and share artwork on the go with professional drawing tools.",
     "size": 83,
-    "reviews": 25600,
+    "reviews": "9K",
     "ratingAvg": 4.8,
     "downloads": "6M",
     "ratings": [
@@ -420,7 +420,7 @@
     "id": 24,
     "description": "SafeVault offers enterprise-grade password protection and data encryption for ultimate security and peace of mind.",
     "size": 37,
-    "reviews": 14500,
+    "reviews": "5K",
     "ratingAvg": 4.7,
     "downloads": "7M",
     "ratings": [
@@ -438,7 +438,7 @@
     "id": 25,
     "description": "GardenEase is a digital gardening assistant that helps plant lovers nurture their greens effortlessly.",
     "size": 52,
-    "reviews": 9900,
+    "reviews": "11K",
     "ratingAvg": 4.6,
     "downloads": "6M",
     "ratings": [
@@ -456,7 +456,7 @@
     "id": 26,
     "description": "Eventify simplifies event planning by integrating scheduling, ticketing, and communication into one platform.",
     "size": 65,
-    "reviews": 18900,
+    "reviews": "18K",
     "ratingAvg": 4.5,
     "downloads": "6M",
     "ratings": [
@@ -474,7 +474,7 @@
     "id": 27,
     "description": "Readly gives access to thousands of e-books, audiobooks, and magazines worldwide with personalized recommendations.",
     "size": 78,
-    "reviews": 31800,
+    "reviews": "11K",
     "ratingAvg": 4.9,
     "downloads": "6M",
     "ratings": [
@@ -492,7 +492,7 @@
     "id": 28,
     "description": "MoveFit combines fitness tracking, personalized workouts, and real-time analytics to help users stay in shape.",
     "size": 70,
-    "reviews": 21200,
+    "reviews": "11K",
     "ratingAvg": 4.7,
     "downloads": "7M",
     "ratings": [
@@ -510,7 +510,7 @@
     "id": 29,
     "description": "HomeSync is a smart home control app connecting all IoT devices for enhanced comfort, security, and sustainability.",
     "size": 69,
-    "reviews": 24100,
+    "reviews": "11K",
     "ratingAvg": 4.6,
     "downloads": "6M",
     "ratings": [
@@ -528,7 +528,7 @@
     "id": 30,
     "description": "TravelTales is a travel storytelling companion for explorers to create visual diaries with photos, notes, and maps.",
     "size": 74,
-    "reviews": 18800,
+    "reviews": "14K",
     "ratingAvg": 4.7,
     "downloads": "6M",
     "ratings": [

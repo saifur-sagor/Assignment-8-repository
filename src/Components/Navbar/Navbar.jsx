@@ -39,13 +39,15 @@ const Navbar = () => {
               <Link to="/apps">Apps</Link>
             </li>
             <li>
-              <a>Instalation</a>
+              <Link to="/instalation">Instalation</Link>
             </li>
           </ul>
         </div>
         <div className="flex items-center">
           <img src={logo} className="w-[20px] h-[20px]" />
-          <a className="text-xl font-semibold text-purple-500">HERO.APP</a>
+          <Link to="/" className="text-xl font-semibold text-purple-500">
+            HERO.APP
+          </Link>
         </div>
       </div>
       <div className="navbar-center hidden lg:flex">
@@ -63,10 +65,10 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <a>
+            <Link to="/instalation">
               <MdOutlineInstallDesktop />
               Instalation
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
