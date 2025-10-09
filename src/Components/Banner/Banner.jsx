@@ -37,11 +37,11 @@ const Banner = () => {
           <img src={banner} />
         </div>
       </div>
-      <div className="h-[260px] bg-purple-600 text-white">
+      <div className="bg-purple-600 text-white">
         <h1 className="text-4xl font-bold text-center py-10">
           Trusted by Millions, Built for You
         </h1>
-        <div className="flex justify-center items-center gap-24">
+        <div className="flex flex-col mg:flex-row justify-center items-center gap-24 pb-10">
           <div className="flex flex-col justify-center items-center">
             <p>Total Download</p>
             <h1 className="text-4xl font-bold">29.6M</h1>

@@ -15,7 +15,7 @@ const Home = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="grid grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <Suspense fallback={<p>Loading..</p>}>
           {sliceApp.map((app) => (
             <AppCard key={app.id} app={app}></AppCard>

@@ -1,17 +1,22 @@
 import React, { Suspense, useState } from "react";
 import useHooks from "../../Hook/useHooks";
 import AppCard from "../../AppCard/AppCard";
+import AppError from "../ErrorPages/AppError";
 
 const Apps = () => {
   const { appsData } = useHooks();
   const [search, setSearch] = useState("");
-  // console.log(search);
   const trim = search.trim().toLocaleLowerCase();
   const searchApp = trim
     ? appsData.filter((app) => app.title.toLocaleLowerCase().includes(trim))
     : appsData;
-  // console.log(searchApp);
-
+  if (searchApp.length === 0) {
+    return (
+      <div>
+        <AppError></AppError>
+      </div>
+    );
+  }
   return (
     <div className="container mx-auto">
       <div className="text-center my-8">
@@ -34,7 +39,7 @@ const Apps = () => {
           />
         </label>
       </div>
-      <div className="grid grid-cols-4 gap-5">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-5">
         <Suspense fallback={<p>Loading...</p>}>
           {searchApp.map((app) => (
             <AppCard key={app.id} app={app}></AppCard>
