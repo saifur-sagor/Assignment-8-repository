@@ -16,7 +16,11 @@ const Home = () => {
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-        <Suspense fallback={<p>Loading..</p>}>
+        <Suspense
+          fallback={
+            <span className="loading loading-spinner text-error"></span>
+          }
+        >
           {sliceApp.map((app) => (
             <AppCard key={app.id} app={app}></AppCard>
           ))}

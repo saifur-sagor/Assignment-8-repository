@@ -13,7 +13,7 @@ const RoutesError = () => {
         <img src={err} className="w-[300px] h-[300px]" />
       </div>
       <div className="text-center">
-        <h1 className="text-2xl font-bold">Not Found</h1>
+        <h1 className="text-4xl font-bold my-2">Oops Page Not Found</h1>
         <p className="text-xl text-gray-500 mb-2">
           Sorry, the page you are looking for might be removed,
           <br />

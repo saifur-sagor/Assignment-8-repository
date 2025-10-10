@@ -11,11 +11,20 @@ const Footer = () => {
         <nav>
           <h6 className="footer-title">Services</h6>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing <br />
-            elit. Incidunt esse autem at, laudantium dolores <br /> eaque
-            expedita quidem eveniet, mollitia officiis aut <br /> porro harum
-            minus distinctio ab ducimus labore <br />
-            laborum repellendus!
+            At We Build Productive Apps, our mission is to design and develop
+            powerful
+            <br /> user-friendly, and innovative applications that help people
+            work smarter
+            <br /> not harder. We believe technology should make life easier —
+            increasing
+            <br /> productivity saving time, and bringing creativity to every
+            task.Our team <br />
+            of passionate developers, designers, and thinkers work together to{" "}
+            <br />
+            create apps that are not only efficient but also enjoyable to From
+            <br /> productivity tools to business management solutions, we focus
+            <br />
+            on performance, simplicity, and real-world impact.
           </p>
         </nav>
         <nav>

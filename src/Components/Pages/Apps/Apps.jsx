@@ -34,13 +34,17 @@ const Apps = () => {
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             type="search"
-            placeholder="search"
+            placeholder="Search App"
             className="input"
           />
         </label>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-5">
-        <Suspense fallback={<p>Loading...</p>}>
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-5 mb-8">
+        <Suspense
+          fallback={
+            <span className="loading loading-spinner text-error"></span>
+          }
+        >
           {searchApp.map((app) => (
             <AppCard key={app.id} app={app}></AppCard>
           ))}

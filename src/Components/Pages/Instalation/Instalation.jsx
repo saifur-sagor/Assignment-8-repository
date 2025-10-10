@@ -1,4 +1,7 @@
 import React, { useEffect, useState } from "react";
+import { MdOutlineFileDownload } from "react-icons/md";
+import { FaStar } from "react-icons/fa";
+import { toast } from "react-toastify";
 
 const Instalation = () => {
   const [installApp, setInstallApp] = useState([]);
@@ -20,7 +23,10 @@ const Instalation = () => {
     let updatedList = existingList.filter((p) => p.id !== id);
     setInstallApp(updatedList);
     localStorage.setItem("installApp", JSON.stringify(updatedList));
+    const unInstalled = existingList.find((p) => p.id === id);
+    toast(`${unInstalled.title} Uninstalled Successfully!`);
   };
+
   return (
     <div className="container mx-auto">
       <div className="text-center my-10">
@@ -51,9 +57,23 @@ const Instalation = () => {
             </div>
             <div>
               <h1 className="text-lg font-semibold">{p.title}</h1>
-              <button className="mr-4">{p.downloads}</button>
-              <button className="mr-4">{p.ratingAvg}</button>
-              <button className="mr-4">{p.size}</button>
+              <div className="flex gap-2">
+                <div>
+                  <button className="flex justify-center items-center text-green-600">
+                    <MdOutlineFileDownload />
+                    {p.downloads}
+                  </button>
+                </div>
+                <div>
+                  <button className="flex justify-center items-center text-amber-600">
+                    <FaStar />
+                    {p.ratingAvg}
+                  </button>
+                </div>
+                <div>
+                  <button>{p.size} MB</button>
+                </div>
+              </div>
             </div>
           </div>
           <button

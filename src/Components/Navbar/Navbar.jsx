@@ -4,7 +4,7 @@ import { FaAppStore } from "react-icons/fa";
 import { MdOutlineInstallDesktop } from "react-icons/md";
 import { IoLogoGithub } from "react-icons/io";
 import logo from "../../assets/logo.png";
-import { Link } from "react-router";
+import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
   return (
@@ -53,27 +53,42 @@ const Navbar = () => {
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <Link to="/">
-              <IoHomeOutline />
+            <NavLink
+              to="/"
+              className={({ isActive }) =>
+                isActive ? "border-b-2 border-blue-600" : ""
+              }
+            >
               Home
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/apps">
-              <FaAppStore />
+            <NavLink
+              to="/apps"
+              className={({ isActive }) =>
+                isActive ? "border-b-2 border-blue-600" : ""
+              }
+            >
               Apps
-            </Link>
+            </NavLink>
           </li>
           <li>
-            <Link to="/instalation">
-              <MdOutlineInstallDesktop />
+            <NavLink
+              to="/instalation"
+              className={({ isActive }) =>
+                isActive ? "border-b-2 border-blue-600" : ""
+              }
+            >
               Instalation
-            </Link>
+            </NavLink>
           </li>
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn bg-purple-700 hover:bg-purple-500">
+        <a
+          className="btn bg-purple-700 hover:bg-purple-500"
+          href="https://github.com/"
+        >
           <IoLogoGithub />
           Contribute
         </a>
