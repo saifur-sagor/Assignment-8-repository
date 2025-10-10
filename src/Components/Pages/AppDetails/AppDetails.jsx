@@ -125,8 +125,8 @@ const AppDetails = () => {
       </div>
 
       <div>
-        <h1 className="text-3xl font-semibold">Description</h1>
-        <p className="text-xl text-gray-500 my-2">{description}</p>
+        <h1 className="max-sm:px-4 text-3xl font-semibold">Description</h1>
+        <p className="max-sm:px-4 text-xl text-gray-500 my-2">{description}</p>
       </div>
     </div>
   );
